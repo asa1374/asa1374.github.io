@@ -556,7 +556,7 @@ a {
   .cover-v1 .heading {
     font-size: 5rem;
     font-weight: 900;
-    color: #feaaf8; }
+    color: #ff0000; }
     @media (max-width: 991.98px) {
       .cover-v1 .heading {
         font-size: 3rem; } }
@@ -570,8 +570,10 @@ a {
   .cover-v1 .post-meta {
     font-size: 18px; }
   .cover-v1 .subheading {
-    font-size: 33px;
-    color: #495057; }
+    font-size: 43px;
+    color: #299141;
+    font-weight: 900;
+    margin-top: 28px;}
     @media (max-width: 991.98px) {
       .cover-v1 .subheading {
         font-size: 24px; } }
